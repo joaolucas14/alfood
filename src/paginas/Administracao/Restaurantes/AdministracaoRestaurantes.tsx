@@ -10,7 +10,6 @@ import {
   TableHead,
   TableRow,
 } from "@mui/material";
-import axios from "axios";
 import { Link } from "react-router-dom";
 import http from "../../../http";
 
